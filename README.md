@@ -4,6 +4,41 @@ I build software products with AI agents, mostly iOS apps and the backends behin
 
 [**Website**](https://eliasconrad.eu) · [Instagram](https://instagram.com/eliascnrd) · [Scooly](https://scooly.dev) · [Manhunt](https://manhunt-app.com)
 
+<table>
+<tr>
+<td width="46%" valign="top">
+<img src="./assets/portrait.svg" width="100%" alt="ASCII portrait of Elias Conrad">
+</td>
+<td valign="top">
+
+**About**
+
+- Founder, based in Germany
+- Builds iOS apps, web apps and the servers behind them
+- Works with several AI agents in parallel, reviews everything they ship
+- Cares about the details people feel: speed, motion, copy
+- Treats privacy and security as part of the product, not an afterthought
+
+**Right now**
+
+- Getting **Scooly** ready for the App Store
+- Building the round system and social feed for **Manhunt**
+- Teaching AI agents to remember with **Halograph**
+
+**Ask me about**
+
+Shipping with AI agents · SwiftUI · Cloudflare Workers · MCP · turning an idea into a TestFlight build in days
+
+</td>
+</tr>
+</table>
+
+## By the numbers
+
+| 3,673 | 141 | 169 | 6 months |
+| :---: | :---: | :---: | :---: |
+| contributions | days with commits | commits on the busiest day | since the first commit |
+
 ## Now shipping
 
 | | What it is | Where it stands |
@@ -12,11 +47,16 @@ I build software products with AI agents, mostly iOS apps and the backends behin
 | **[Manhunt](https://manhunt-app.com)** | Real-life chase game for friends: hunters against runners, a shrinking zone, and every round lands in the feed. | Prototype on iOS, server live |
 | **[Halograph](https://github.com/eliasconrad/halograph-skills)** | A memory for AI agents. Mails, messages, meetings and notes in one place, so Claude, Cursor and Grok know the context without being told. | Running daily, [open skill](https://github.com/eliasconrad/halograph-skills) for any MCP client |
 
+## Also built
+
+- **[Facet](https://eliasconrad.github.io/facet/)** · a focus blocker for the Mac
+- **[Scooly Status](https://status.scooly.dev/)** · public status page for Scooly's services
+- **Cue** · a desktop app to plan, script and publish social media content for a brand
+- **Client websites** · rebuilt business websites from WordPress to fast static sites, with SEO and privacy built in
+
 ## The story so far
 
-<img src="./assets/elias-ai.jpg" align="right" width="260" alt="Illustration of Elias Conrad with the AI tools he builds with">
-
-I opened this GitHub account on **May 10, 2026**. Everything below happened since then.
+I opened this GitHub account on **May 10, 2026**. Everything here happened since then.
 
 Three months later the first Scooly build was on TestFlight. By September it had its own backend, payments through the App Store, a website and a waitlist, and I moved the whole thing to Cloudflare. In October I started Manhunt, a game that gets people outside instead of onto their couch. In November I built Halograph, because explaining my own projects to AI over and over again was the slowest part of my day.
 
@@ -28,9 +68,14 @@ Most of my code is written together with AI agents. That does not make it less m
 - **Measure, don't guess.** If I claim something works, there is a test, a number or a screenshot behind it.
 - **Privacy is architecture.** Least privilege, data that stays where it belongs, secrets that never touch the client.
 - **One person, many agents.** I run several AI agents in parallel and review everything they do.
+- **Native feel or nothing.** Motion, haptics and copy get as much attention as the backend.
 
 ## Shipping log
 
 <img src="./assets/shipping.svg" width="100%" alt="Contributions per month since May 2026">
 
 3,673 contributions on 141 days since May 2026, most of them in private repositories. Busiest day: September 1, with 169.
+
+---
+
+<p align="center"><sub>Building something interesting? Say hi on <a href="https://instagram.com/eliascnrd">Instagram</a> or through <a href="https://eliasconrad.eu">eliasconrad.eu</a>.</sub></p>
