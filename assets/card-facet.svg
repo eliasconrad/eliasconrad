@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="200" viewBox="0 0 580 200" role="img" aria-label="Facet: A focus blocker for the Mac. Block what distracts you, keep what you need.">
+<rect x="0.5" y="0.5" width="579" height="199" rx="18" fill="#0d1117" stroke="#30363d"/>
+<rect x="24" y="26" width="10" height="10" rx="3" fill="#8b949e"/>
+<text x="44" y="36" fill="#7d8590" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13">eliasconrad.github.io/facet</text>
+<text x="24" y="80" fill="#f0f3f6" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="30" font-weight="700" letter-spacing="-0.5">Facet</text>
+<text x="24" y="114" fill="#c9d1d9" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15">A focus blocker for the Mac.</text>
+<text x="24" y="135" fill="#c9d1d9" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15">Block what distracts you, keep what you need.</text>
+<rect x="24" y="156" width="182" height="26" rx="13" fill="#8b949e" fill-opacity=".14"/>
+<circle cx="38" cy="169" r="4" fill="#8b949e"><animate attributeName="opacity" values="1;.35;1" dur="2s" repeatCount="indefinite"/></circle>
+<text x="50" y="174" fill="#8b949e" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12.5">Mac app · download</text>
+</svg>
