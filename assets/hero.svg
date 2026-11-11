@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Elias Conrad. I build products with AI.">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b0d10"/><stop offset="1" stop-color="#151a21"/></linearGradient>
+<pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1.2" fill="#ffffff" opacity=".06"/></pattern></defs>
+<rect width="1200" height="360" rx="24" fill="url(#g)"/><rect width="1200" height="360" rx="24" fill="url(#dots)"/>
+<text x="64" y="92" fill="#7d8590" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="18" letter-spacing="2">FOUNDER · BUILDS WITH AI</text>
+<text x="60" y="178" fill="#f0f3f6" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="76" font-weight="700" letter-spacing="-2">Elias Conrad</text>
+<text x="64" y="232" fill="#c9d1d9" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="30" font-weight="500">I build products with AI. From idea to App Store, fast.</text>
+<text x="64" y="300" fill="#3fb950" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="18">3,673 contributions since May 2026</text>
+<text x="1136" y="300" fill="#7d8590" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="18" text-anchor="end">Scooly · Manhunt · Halograph</text>
+</svg>
