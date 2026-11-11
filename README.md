@@ -1,8 +1,11 @@
 <img src="./assets/hero.svg" width="100%" alt="Elias Conrad. I build products with AI. From idea to App Store, fast.">
+<img src="./assets/tagline.svg" width="100%" alt="Now building: agentic infrastructure, open-weight models, iOS apps, memory for AI agents">
 
 I build agentic infrastructure and the products on top of it: AI agents, the memory and tools they need to be useful, and the apps people actually use. I run open-weight models in production, I build with several agents at once, and honestly, I think this whole AI game is the most exciting thing happening right now. I decide what gets built, the agents help me build it fast, and I own the result: design, security, data, launch.
 
 [**Website**](https://eliasconrad.eu) · [Instagram](https://instagram.com/eliascnrd) · [Scooly](https://scooly.dev) · [Manhunt](https://manhunt-app.com)
+
+<img src="./assets/elias.jpg" align="right" width="300" alt="Elias Conrad coding at his laptop">
 
 **About** · Founder, based in Germany. Before May 2026 I designed websites for businesses. Now I build agentic infrastructure, iOS apps, web apps and the servers behind them, with several AI agents running in parallel and me reviewing everything they ship. I care about the details people feel: speed, motion, copy. Privacy and security are part of the product, not an afterthought.
 
@@ -16,13 +19,15 @@ I build agentic infrastructure and the products on top of it: AI agents, the mem
 | :---: | :---: | :---: | :---: |
 | contributions | days with commits | commits on the busiest day | since the first commit |
 
+<br clear="right">
+
 ## Now shipping
 
-| | What it is | Where it stands |
-| --- | --- | --- |
-| **[Scooly](https://scooly.dev)** | AI study app that gets students through their next exam: exam prep, practice and an AI tutor. | iOS app in TestFlight since August 2026, waitlist open |
-| **[Manhunt](https://manhunt-app.com)** | Real-life chase game for friends: hunters against runners, a shrinking zone, and every round lands in the feed. | Prototype on iOS, server live |
-| **[Halograph](https://github.com/eliasconrad/halograph-skills)** | A memory for AI agents. Mails, messages, meetings and notes in one place, so Claude, Cursor and Grok know the context without being told. | Running daily, [open skill](https://github.com/eliasconrad/halograph-skills) for any MCP client |
+<p>
+<a href="https://scooly.dev"><img src="./assets/card-scooly.svg" width="32%" alt="Scooly: AI study app, TestFlight, waitlist open"></a>
+<a href="https://manhunt-app.com"><img src="./assets/card-manhunt.svg" width="32%" alt="Manhunt: real-life chase game, prototype, server live"></a>
+<a href="https://github.com/eliasconrad/halograph-skills"><img src="./assets/card-halograph.svg" width="32%" alt="Halograph: memory for AI agents, running daily, open skill"></a>
+</p>
 
 ## Also built
 
@@ -32,6 +37,8 @@ I build agentic infrastructure and the products on top of it: AI agents, the mem
 - **Client websites** · rebuilt business websites from WordPress to fast static sites, with SEO and privacy built in
 
 ## The story so far
+
+<img src="./assets/timeline.svg" width="100%" alt="Timeline from web design to Halograph">
 
 Before 2026 I designed websites: layouts, brands, copy, the whole look and feel for businesses. In **May 2026** I started building software myself and opened this GitHub account on May 10. Everything here happened since then.
 
