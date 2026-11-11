@@ -4,10 +4,7 @@ I build software products with AI agents, mostly iOS apps and the backends behin
 
 [**Website**](https://eliasconrad.eu) · [Instagram](https://instagram.com/eliascnrd) · [Scooly](https://scooly.dev) · [Manhunt](https://manhunt-app.com)
 
-<table>
-<tr>
-<td valign="top">
-<pre>
+```text
                   @@%%@  @@@%*=::::-::.-*@
                @%*=++++**+----:::::::-:::-*%@
              @#=-:::::-:::----:....:::---::::=#@
@@ -48,31 +45,13 @@ I build software products with AI agents, mostly iOS apps and the backends behin
 .................:*%%%@%%%@@@%%%%%%%%%%%%##%%#####*:........
 ...................-*%@@@%@@@@%%%%%%%%@%%%%%%##*+-..........
 
-</pre>
-</td>
-<td valign="top">
+```
 
-**About**
+**About** · Founder, based in Germany. I build iOS apps, web apps and the servers behind them, with several AI agents running in parallel and me reviewing everything they ship. I care about the details people feel: speed, motion, copy. Privacy and security are part of the product, not an afterthought.
 
-- Founder, based in Germany
-- Builds iOS apps, web apps and the servers behind them
-- Works with several AI agents in parallel, reviews everything they ship
-- Cares about the details people feel: speed, motion, copy
-- Treats privacy and security as part of the product
+**Right now** · Getting **Scooly** ready for the App Store, building rounds and the social feed for **Manhunt**, and teaching AI agents to remember with **Halograph**.
 
-**Right now**
-
-- Getting **Scooly** ready for the App Store
-- Building rounds and the social feed for **Manhunt**
-- Teaching AI agents to remember with **Halograph**
-
-**Ask me about**
-
-Shipping with AI agents · SwiftUI · Cloudflare Workers · MCP
-
-</td>
-</tr>
-</table>
+**Ask me about** · Shipping with AI agents · SwiftUI · Cloudflare Workers · MCP
 
 ## By the numbers
 
