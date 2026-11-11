@@ -13,13 +13,13 @@ I build agentic infrastructure and the products on top of it: AI agents, the mem
 
 **Ask me about** · Agentic infrastructure · Open-weight models in production · MCP · Shipping with AI agents · SwiftUI · Cloudflare Workers
 
+<br clear="right">
+
 ## By the numbers
 
 | 3,673 | 141 | 169 | 6 months |
 | :---: | :---: | :---: | :---: |
 | contributions | days with commits | commits on the busiest day | since the first commit |
-
-<br clear="right">
 
 ## Now shipping
 
