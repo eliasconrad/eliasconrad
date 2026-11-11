@@ -17,7 +17,7 @@ I build agentic infrastructure and the products on top of it: AI agents, the mem
 
 ## By the numbers
 
-| 3,673 | 141 | 169 | 6 months |
+| 3,687 | 141 | 169 | 6 months |
 | :---: | :---: | :---: | :---: |
 | contributions | days with commits | commits on the busiest day | since the first commit |
 
@@ -56,7 +56,7 @@ Most of my code is written together with AI agents. That does not make it less m
 
 <img src="./assets/shipping.svg" width="100%" alt="Contributions per month since May 2026">
 
-3,673 contributions on 141 days since May 2026, most of them in private repositories. Busiest day: September 1, with 169.
+3,687 contributions on 141 days since May 2026, most of them in private repositories. Busiest day: September 1, with 169.
 
 ---
 
