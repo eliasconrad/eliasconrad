@@ -1,6 +1,6 @@
 <img src="./assets/hero.svg" width="100%" alt="Elias Conrad. I build products with AI. From idea to App Store, fast.">
 
-I build software products with AI agents, mostly iOS apps and the backends behind them. I decide what gets built, the agents help me build it fast, and I own the result: design, security, data, launch.
+I build agentic infrastructure and the products on top of it: AI agents, the memory and tools they need to be useful, and the apps people actually use. I run open-weight models in production, I build with several agents at once, and honestly, I think this whole AI game is the most exciting thing happening right now. I decide what gets built, the agents help me build it fast, and I own the result: design, security, data, launch.
 
 [**Website**](https://eliasconrad.eu) · [Instagram](https://instagram.com/eliascnrd) · [Scooly](https://scooly.dev) · [Manhunt](https://manhunt-app.com)
 
@@ -43,11 +43,11 @@ I build software products with AI agents, mostly iOS apps and the backends behin
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣷⣟⢵⢕⡷⣹⢝⡾⣵⣻⣻⣺⢵⡻⣿⣻⢯⡿⣞⢮⡳⣝⢾⢵⡫⡞⡕⣕⢇⢇⢇⢪⣪⢮⡯⡏
 ```
 
-**About** · Founder, based in Germany. I build iOS apps, web apps and the servers behind them, with several AI agents running in parallel and me reviewing everything they ship. I care about the details people feel: speed, motion, copy. Privacy and security are part of the product, not an afterthought.
+**About** · Founder, based in Germany. Before May 2026 I designed websites for businesses. Now I build agentic infrastructure, iOS apps, web apps and the servers behind them, with several AI agents running in parallel and me reviewing everything they ship. I care about the details people feel: speed, motion, copy. Privacy and security are part of the product, not an afterthought.
 
 **Right now** · Getting **Scooly** ready for the App Store, building rounds and the social feed for **Manhunt**, and teaching AI agents to remember with **Halograph**.
 
-**Ask me about** · Shipping with AI agents · SwiftUI · Cloudflare Workers · MCP
+**Ask me about** · Agentic infrastructure · Open-weight models in production · MCP · Shipping with AI agents · SwiftUI · Cloudflare Workers
 
 ## By the numbers
 
@@ -72,9 +72,9 @@ I build software products with AI agents, mostly iOS apps and the backends behin
 
 ## The story so far
 
-I opened this GitHub account on **May 10, 2026**. Everything here happened since then.
+Before 2026 I designed websites: layouts, brands, copy, the whole look and feel for businesses. In **May 2026** I started building software myself and opened this GitHub account on May 10. Everything here happened since then.
 
-Three months later the first Scooly build was on TestFlight. By September it had its own backend, payments through the App Store, a website and a waitlist, and I moved the whole thing to Cloudflare. In October I started Manhunt, a game that gets people outside instead of onto their couch. In November I built Halograph, because explaining my own projects to AI over and over again was the slowest part of my day.
+Three months later the first Scooly build was on TestFlight. By September it had its own backend, payments through the App Store, a website and a waitlist, and I moved the whole thing to Cloudflare. In October I started Manhunt, a game that gets people outside instead of onto their couch. In November I built Halograph, agentic infrastructure that gives every AI agent the same memory, because explaining my own projects to AI over and over again was the slowest part of my day.
 
 Most of my code is written together with AI agents. That does not make it less mine. It means I spend my time on the parts that matter: what to build, how it should feel, and whether it is safe to ship.
 
@@ -84,6 +84,7 @@ Most of my code is written together with AI agents. That does not make it less m
 - **Measure, don't guess.** If I claim something works, there is a test, a number or a screenshot behind it.
 - **Privacy is architecture.** Least privilege, data that stays where it belongs, secrets that never touch the client.
 - **One person, many agents.** I run several AI agents in parallel and review everything they do.
+- **Open where it counts.** Open-weight models, open skills, open protocols like MCP. I want to own my stack, not rent it.
 - **Native feel or nothing.** Motion, haptics and copy get as much attention as the backend.
 
 ## Shipping log
