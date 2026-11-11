@@ -14,6 +14,8 @@ I build software products with AI agents, mostly iOS apps and the backends behin
 
 ## The story so far
 
+<img src="./assets/elias-ai.jpg" align="right" width="260" alt="Illustration of Elias Conrad with the AI tools he builds with">
+
 I opened this GitHub account on **May 10, 2026**. Everything below happened since then.
 
 Three months later the first Scooly build was on TestFlight. By September it had its own backend, payments through the App Store, a website and a waitlist, and I moved the whole thing to Cloudflare. In October I started Manhunt, a game that gets people outside instead of onto their couch. In November I built Halograph, because explaining my own projects to AI over and over again was the slowest part of my day.
